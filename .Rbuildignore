@@ -4,3 +4,6 @@
 ^README.md
 ^vignettes/*\.bbl$
 ^vignettes/*\.blg$
+^DESCRIPTION\.bak$
+^\./\.travis\.yml\.bak$
+^appveyor\.yml$
